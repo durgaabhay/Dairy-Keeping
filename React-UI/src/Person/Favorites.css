@@ -1,0 +1,12 @@
+.Favorites {
+    border: 1px solid orange;
+    box-shadow: 0 2px 2px #ccc;
+    width: 175px;
+    padding:20px;
+    display: inline-block;
+    margin: 10px;
+}
+
+.OuterBox {
+
+}

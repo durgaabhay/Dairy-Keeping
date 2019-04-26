@@ -1,0 +1,17 @@
+.Activities {
+    background-color: #eee;
+    margin: 10px;
+    width: 20%;
+    border: 2px solid salmon;
+    box-shadow: 0 2px 3px salmon;
+    padding: 16px;
+    text-align: center;
+}
+
+.btn {
+    background-color: white;
+    border: 2px solid darkblue;
+    cursor: pointer;
+    padding: 8px;
+    font: caption;
+}

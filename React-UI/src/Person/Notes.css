@@ -1,0 +1,12 @@
+.Notes {
+    background-color: floralwhite;
+    width: 30%;
+    margin: 30px;
+    border: 2px solid darkorange;
+    border-radius: 20px;
+    padding: 5px;
+    box-shadow: grey;
+    text-align: justify-all;
+    float: left;
+}
+

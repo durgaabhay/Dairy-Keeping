@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.Input {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+.BorderBox {
+  width:95%;
+  border: 2px solid darkorange;
+  margin: 30px;
+}

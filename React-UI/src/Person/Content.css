@@ -1,0 +1,18 @@
+.Content {
+    width: 60%;
+    background-color: floralwhite;
+    border-radius: 10px;
+    /*margin: auto;*/
+    border: 1px solid darkorange;
+    padding: 1px;
+    margin-right: 40px;
+    text-align: center;
+    float: right;
+}
+
+.Close-Button {
+    border: 1px solid darkorange;
+    border-radius: 5px;
+    background-color: whitesmoke;
+    float: right;
+}
