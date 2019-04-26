@@ -9,7 +9,7 @@ const singleImage = upload.single('image');
 AWS.config.update({
     accessKeyId: '',
     secretAccessKey: '',
-    region: 'us-east-2'
+    region: ''
 });
 
 const s3 = new AWS.S3();
@@ -27,8 +27,8 @@ router.post('/image-upload', (req,res) =>{
 router.get('/froms3', (req,res) =>{
 
     var params = {
-      Bucket: 'mybeaconimg',
-      Key: '1539889947199'
+      Bucket: '',
+      Key: ''
     };
     s3.getObject(params, function(err, data) {
        if(err){
